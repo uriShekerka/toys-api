@@ -1,0 +1,90 @@
+[
+  {
+    "_id": {
+      "$oid": "635e69c1f0d7593da60ffe2c"
+    },
+    "name": "Mega Bloks",
+    "price": 180,
+    "info": "Mega Bloks Toy",
+    "img_url": "https://www.istockphoto.com/photo/3d-render-abstract-light-background-with-network-of-different-sizes-white-bloks-some-gm1325117931-410243674?utm_campaign=srp_photos_limitedresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbloks%2F&utm_medium=affiliate&utm_source=pexels&utm_term=bloks",
+    "category": "Construction_game"
+  },
+  {
+    "name": "Clicks",
+    "price": 50,
+    "info": "Play mobile its fun",
+    "img_url": "https://www.pexels.com/photo/photo-of-people-on-building-under-construction-1117452/",
+    "category": "Construction_game"
+  },
+  {
+    "name": "Lego",
+    "price": 250,
+    "info": "Lego toy ",
+    "img_url": "https://www.pexels.com/photo/close-up-of-lego-blocks-4887152/",
+    "category": "Construction_game"
+  },
+  {
+    "name": "Taki",
+    "price": 100,
+    "info": "Card game",
+    "img_url": "https://www.pexels.com/photo/woman-holding-a-single-playing-card-3283605/",
+    "category": "Box_game"
+  },
+  {
+    "name": "risk",
+    "price": 400,
+    "info": "Strategy game",
+    "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ftarget.scene7.com%2Fis%2Fimage%2FTarget%2FGUEST_77c4f6d6-0890-4875-9dbf-e96fb4e9a91e%3Fwid%3D488%26hei%3D488%26fmt%3Dpjpeg&imgrefurl=https%3A%2F%2Fwww.target.com%2Fp%2Frisk-board-game%2F-%2FA-10855294&tbnid=nR_X06f0PNHQ6M&vet=12ahUKEwjymZybv-T7AhV8TKQEHbfFB_oQMygJegUIARDRAQ..i&docid=vcXHDvasWQnUbM&w=488&h=488&q=risk%20game&ved=2ahUKEwjymZybv-T7AhV8TKQEHbfFB_oQMygJegUIARDRAQ",
+    "category": "Box_game"
+  },
+  {
+    "name": "Catan",
+    "price": 350,
+    "info": "Strategy game",
+    "img_url": "https://www.pexels.com/photo/aerial-view-architecture-autumn-cars-280221/",
+    "category": "Box_game"
+  },
+  {
+    "name": "Fifa_2022",
+    "price": 50,
+    "info": "Play mobile its fun",
+    "img_url": "https://www.pexels.com/photo/photo-of-person-wearing-neon-green-socks-3621104/",
+    "category": "Video_games"
+  },
+  {
+    "name": "Assassin Creed",
+    "price": 250,
+    "info": "Assassin Game",
+    "img_url": "https://www.pexels.com/photo/medieval-armor-2046779/",
+    "category": "Video_games"
+  },
+  {
+    "name": "Mario",
+    "price": 50,
+    "info": "A little doll named Mario",
+    "img_url": "https://www.pexels.com/photo/focus-photo-of-super-mario-luigi-and-yoshi-figurines-163036/",
+    "category": "Video_games"
+  },
+  {
+    "name": "Fortnite",
+    "price": 200,
+    "info": "A very addictive game",
+    "img_url": "https://www.pexels.com/photo/person-wearing-red-hoodie-1097456/",
+    "category": "Video_games"
+  },
+  {
+    "name": "Call Of Duty",
+    "price": 300,
+    "info": "war game",
+    "img_url": "https://www.pexels.com/photo/man-wearing-military-uniform-and-walking-through-woods-1927974/",
+    "category": "Video_games"
+  },
+  {
+    "name": "Need For Speed",
+    "price": 180,
+    "info": "Racing game",
+    "img_url": "https://www.pexels.com/photo/red-car-head-light-638479/",
+    "category": "Video_games"
+  }
+  
+]
