@@ -1,0 +1,34 @@
+.table{
+    border: 2px solid rgb(0, 0, 0);
+    border-collapse:collapse ;
+    list-style: none;
+    padding: 6px;
+   margin: 0px;
+   margin-left: 80px;
+}
+.tablea{
+    display: flex;
+    flex-direction: column;
+    padding: 7px;
+}
+h2{
+    margin-left: 550px;
+}
+header{
+    margin-left: 420px;
+}
+
+.product{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+ 
+}
+.producta{
+    border-collapse: collapse;
+     display: flex;
+    flex-direction: column;
+    /* justify-content: center;
+    text-align: center; */
+}

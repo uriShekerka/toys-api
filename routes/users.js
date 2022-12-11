@@ -1,7 +1,5 @@
 const express= require("express");
 const bcrypt = require("bcrypt");
-const {auth} = require("../middleweres/auth");
-
 const { validteUser, UserModel, validteLogin, createToken } = require("../model/userModel");
 const router = express.Router();
 
